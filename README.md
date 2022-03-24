@@ -1,3 +1,5 @@
+[wwhat is DevOps](https://www.youtube.com/watch?v=9pZ2xmsSDdo&ab_channel=TechWorldwithNana)
+
 ![image](https://user-images.githubusercontent.com/61162446/159561370-01f13b7d-77cd-4472-bfe6-2d1e9afef0d4.png)
 
 Feuille de route DevOps : Programmation, Administration, Containers, Infrastructure comme code, CICD, Logging, Monitoring, Cloud, etc.
